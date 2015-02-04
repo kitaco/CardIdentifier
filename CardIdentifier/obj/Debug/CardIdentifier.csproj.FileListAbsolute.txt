@@ -1,0 +1,9 @@
+C:\Users\Ki\Google Drive\Programming Fundamentals\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.exe.config
+C:\Users\Ki\Google Drive\Programming Fundamentals\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.exe
+C:\Users\Ki\Google Drive\Programming Fundamentals\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.pdb
+C:\Users\Ki\Google Drive\Programming Fundamentals\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csprojResolveAssemblyReference.cache
+C:\Users\Ki\Google Drive\Programming Fundamentals\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.Form1.resources
+C:\Users\Ki\Google Drive\Programming Fundamentals\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.Properties.Resources.resources
+C:\Users\Ki\Google Drive\Programming Fundamentals\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csproj.GenerateResource.Cache
+C:\Users\Ki\Google Drive\Programming Fundamentals\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.exe
+C:\Users\Ki\Google Drive\Programming Fundamentals\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.pdb
